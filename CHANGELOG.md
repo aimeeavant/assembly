@@ -1,5 +1,9 @@
 # Changelog
 
+## HEAD
+
+- Add `sticky` position rule.
+
 ## 0.24.0
 
 - Add `unlock` icon.
